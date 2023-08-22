@@ -46,11 +46,11 @@ The analysis phase focuses on extracting insights from the modified data. The **
 The visualization phase creates visual representations of the analyzed data. The **visualization** function uses Matplotlib to generate bar plots providing insights into content popularity, ratings and classification of types. 
 
 
-![Duration](Project/visualization/duration.jpg)
+![Alt Duration](Project/visualization/duration.jpg)
 
-![Types](Project/visualization/types.jpg)
+![Alt Types](Project/visualization/types.jpg)
 
-![Views](Project/visualization/views.jpg)
+![Alt Views](Project/visualization/views.jpg)
 
 
 ## Conclusion 
