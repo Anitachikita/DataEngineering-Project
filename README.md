@@ -55,7 +55,7 @@ The visualization phase creates visual representations of the analyzed data. The
 
 ## Conclusion 
 
-By completing this project, I've gained hands-on experience in data engineering process including data manipulation, SQL integration, data analysis, and data visualization. These skills are not only essential for junior data engineering roles but are highly transferable across various data-driven domains.
+By completing this project, I've gained hands-on experience in data engineering process including data manipulation, SQL integration, data analysis, and data visualization. These skills are not only essential for data engineering roles but are highly transferable across various data-driven domains.
 
 ## Documentation
 
