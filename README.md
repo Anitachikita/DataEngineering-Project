@@ -5,7 +5,7 @@
 ![Alt Disney+](https://logowik.com/content/uploads/images/disney5456.jpg)
 ## Overview
 
-The Disney+ Project is a data engineering and analysis project that involves extracting, transforming, loading, analyzing and visualizing data from a CSV file containing information about Disney+ database (https://www.kaggle.com/). In this project I perform data analysis and visualize the findings using Python, pandas, SQLite, and Matplotlib. It focuses on exploring the content available on the Disney+ streaming platform and gaining insights into factors such as ratings, genres and more.
+The Disney+ Project is a data engineering and analysis project that involves extracting, transforming, loading, analyzing and visualizing data from a CSV file containing information about Disney+ database (https://www.kaggle.com/). In this project I perform data analysis and visualize using Python, Pandas, SQLite, and Matplotlib. It focuses on exploring the content available on the Disney+ streaming platform and gaining insights into factors such as ratings, genres and more.
 
 For this project I had to get famiar with libraries such as "Pandas" and "Matplotlib". These libraries are very hepful in Data ralated projects.
 
@@ -46,11 +46,11 @@ The analysis phase focuses on extracting insights from the modified data. The **
 The visualization phase creates visual representations of the analyzed data. The **visualization** function uses Matplotlib to generate bar plots providing insights into content popularity, ratings and classification of types. 
 
 
-![Alt Duration](Project/visualization/duration.jpg)
+![Alt Duration](project/visualization/duration.jpg)
 
-![Alt Types](Project/visualization/types.jpg)
+![Alt Types](project/visualization/types.jpg)
 
-![Alt Views](Project/visualization/views.jpg)
+![Alt Views](project/visualization/views.jpg)
 
 
 ## Conclusion 
