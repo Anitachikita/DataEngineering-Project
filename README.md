@@ -2,7 +2,7 @@
 #### Video Demo:  <URL HERE>
 #### Description:
 
-[Disney+](https://logowik.com/content/uploads/images/disney5456.jpg)
+![Disney+](https://logowik.com/content/uploads/images/disney5456.jpg)
 ## Overview
 
 The Disney+ Project is a data engineering and analysis project that involves extracting, transforming, loading, analyzing and visualizing data from a CSV file containing information about Disney+ database (https://www.kaggle.com/). In this project I perform data analysis and visualize the findings using Python, pandas, SQLite, and Matplotlib. It focuses on exploring the content available on the Disney+ streaming platform and gaining insights into factors such as ratings, genres and more.
