@@ -1,5 +1,5 @@
 # DISNEY+ PROJECT
-#### Video Demo:  <https://youtu.be/t2csQPZCRak>
+
 #### Description:
 
 ![Alt Disney+](https://logowik.com/content/uploads/images/disney5456.jpg)
@@ -44,13 +44,6 @@ The analysis phase focuses on extracting insights from the modified data. The **
 
 ## Visualization
 The visualization phase creates visual representations of the analyzed data. The **visualization** function uses Matplotlib to generate bar plots providing insights into content popularity, ratings and classification of types. 
-
-
-![Alt Duration](project/visualization/duration.jpg)
-
-![Alt Types](project/visualization/types.jpg)
-
-![Alt Views](project/visualization/views.jpg)
 
 
 ## Conclusion 
